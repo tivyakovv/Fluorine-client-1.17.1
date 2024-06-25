@@ -15,7 +15,7 @@
  > [!IMPORTANT]
  > **Usage?** folder `Fluorine` to *.minecraft/versions*, use any minecraft launcher with Microsoft login
 
---> [Developer Telegram for support and bug reports](https://t.me/tivyakovv)
+--> [Developer Telegram for support and bug reports](https://t.me/tivyakovv) || Donate Tinkoff - 2200700733782980
 
 ## UI PREVIEW
 
