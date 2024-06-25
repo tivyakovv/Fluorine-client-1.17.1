@@ -4,7 +4,7 @@
 
 
 > [!NOTE]
-> - *Currently 51 mods available.*
+> - *Currently 51 mods available*
 
 > [!WARNING]
 > - *Work only with migrated microsoft accounts*
