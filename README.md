@@ -1,10 +1,10 @@
-# Fluorine-client  <sub>build 1.17</sub>
+# Fluorine-client  <sub>build 1.17.1</sub>
 
 **A modern, non-commercial 1.8.9 pvp client**
 
 
 > [!NOTE]
-> - Currently 53 mods available
+> - Currently 55 mods available
 
 > [!WARNING]
 > - *Work only with migrated microsoft accounts*
@@ -15,18 +15,14 @@
  > [!IMPORTANT]
  > **Usage?** folder `Fluorine` to *.minecraft/versions*, use any minecraft launcher with Microsoft login
 
-## 1.17 version changelog
+## 1.17.1 version changelog
 
 **ADDED**
 
-- *AutoHypixel mod*
--  *chat Translator mod* (English -> Russian)
--  *Notifications*
--  *Draggble overlay*
--  *Vanilla UI scalling*
-- *Scoreboard blur*
-
-- *A lot of bugfixes* 
+- *Raw Input mod*
+-  *Auto language in Translator*
+-  *New search method* (mod settings included)
+-  *fixed bugs*
 
 --> [Developer Telegram for support and bug reports](https://t.me/tivyakovv) || Donate Tinkoff - 2200700733782980
 
